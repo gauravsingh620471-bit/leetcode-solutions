@@ -22,5 +22,14 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
