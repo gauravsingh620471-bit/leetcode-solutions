@@ -23,11 +23,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0912-sort-an-array](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -74,4 +76,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
