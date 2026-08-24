@@ -63,6 +63,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
