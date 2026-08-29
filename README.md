@@ -68,6 +68,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
