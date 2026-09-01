@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0279-perfect-squares](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0279-perfect-squares](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -90,4 +92,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
