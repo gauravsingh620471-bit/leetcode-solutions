@@ -75,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0344-reverse-string](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
