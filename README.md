@@ -16,6 +16,7 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0542-01-matrix](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0542-01-matrix](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 | [0912-sort-an-array](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -101,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0542-01-matrix](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +124,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/gauravsingh620471-bit/leetcode-solutions/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
